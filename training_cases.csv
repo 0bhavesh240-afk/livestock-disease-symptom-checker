@@ -1,0 +1,40 @@
+animal,symptoms,disease
+cattle,"fever excessive salivation mouth sores blisters on feet lameness",Foot-and-mouth disease
+cattle,"mouth sores drooling lameness reduced milk yield",Foot-and-mouth disease
+cattle,"fever salivation foot blisters mouth ulcers",Foot-and-mouth disease
+cattle,"swollen udder hot udder clots in milk fever",Mastitis
+cattle,"pain during milking reduced milk yield swollen udder",Mastitis
+cattle,"hot painful udder abnormal milk clots",Mastitis
+cattle,"fever skin nodules swollen lymph nodes watery eyes",Lumpy skin disease
+cattle,"hard skin nodules reduced milk yield lameness",Lumpy skin disease
+cattle,"nodules over body fever swollen lymph nodes",Lumpy skin disease
+cattle,"sudden lameness muscle swelling crackling swelling fever",Blackleg
+cattle,"hot painful muscle swelling sudden death",Blackleg
+cattle,"crackling leg swelling depression fever",Blackleg
+cattle,"late abortion retained placenta weak calf",Brucellosis
+cattle,"abortion reduced fertility swollen joints",Brucellosis
+cattle,"retained placenta late pregnancy abortion",Brucellosis
+goat,"fever eye discharge nasal discharge mouth sores diarrhea cough",Peste des petits ruminants (PPR)
+sheep,"mouth sores pneumonia eye discharge fever diarrhea",Peste des petits ruminants (PPR)
+goat,"nasal discharge cough fever oral lesions",Peste des petits ruminants (PPR)
+sheep,"fever skin lesions scabs swollen lymph nodes",Sheep/goat pox
+goat,"skin lesions scabs eye discharge reduced appetite",Sheep/goat pox
+sheep,"raised skin scabs fever",Sheep/goat pox
+goat,"sudden death abdominal pain bloating diarrhea",Enterotoxemia
+sheep,"abdominal pain nervous signs sudden death",Enterotoxemia
+goat,"depression bloating diarrhea sudden death",Enterotoxemia
+poultry,"coughing gasping green diarrhea twisted neck sudden death",Newcastle disease
+poultry,"respiratory distress drop in egg production twisted neck",Newcastle disease
+poultry,"gasping green droppings sudden death",Newcastle disease
+poultry,"bloody droppings watery diarrhea weight loss ruffled feathers",Coccidiosis
+poultry,"poor growth wet litter bloody droppings depression",Coccidiosis
+poultry,"watery diarrhea ruffled feathers weight loss",Coccidiosis
+poultry,"watery diarrhea vent soiling tremors ruffled feathers",Infectious bursal disease
+poultry,"depression tremors sudden death dirty vent",Infectious bursal disease
+poultry,"young birds watery droppings ruffled feathers",Infectious bursal disease
+swine,"high fever blue ears red skin vomiting bloody diarrhea",African swine fever
+swine,"sudden death red skin high fever",African swine fever
+swine,"blue ears bloody diarrhea fever",African swine fever
+swine,"fever loss of appetite conjunctivitis red skin diarrhea",Classical swine fever
+swine,"nervous signs abortion fever conjunctivitis",Classical swine fever
+swine,"poor appetite fever red skin diarrhea",Classical swine fever

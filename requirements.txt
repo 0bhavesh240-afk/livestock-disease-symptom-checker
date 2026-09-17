@@ -1,0 +1,2 @@
+# The application uses only Python's standard library.
+# Install pytest>=8.0 only if it is not already available and you want to run tests.
